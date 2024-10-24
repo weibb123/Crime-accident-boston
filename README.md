@@ -1,6 +1,8 @@
 # Crime-accident-boston
 Analyze crime accident in boston ranging from year 2015 to 2024
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/7bb82803-a91f-424e-ad81-99bf70bd06cb)
+
 
 
 
