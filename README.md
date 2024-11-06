@@ -27,5 +27,5 @@ Total number of crime cases from year 2015-2024
 
 ### Findings:
 
-A large number of numbers happen in Boston area such as certain part of Park Street, Backbay, Roxbury, and Dorchester.
+A large number of crime cases happen in Boston area such as certain part of Park Street, Backbay, Roxbury, and Dorchester.
 
